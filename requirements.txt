@@ -1,0 +1,7 @@
+requests
+colorama
+tqdm
+pyarmor
+nuitka
+pyinstaller
+psutil
